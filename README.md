@@ -82,7 +82,7 @@ Displays sunrise and sunset times for the selected city.
 🔹 Rain Probability
 A horizontal bar chart showing the daily chances of rain for the upcoming days.
 
-![Dashboard Screenshot](./Screenshot%202025-06-29%20215723.png)
+![Dashboard Screenshot](./dashboard_preview.png)
 
 
 ### Data Modeling Process
